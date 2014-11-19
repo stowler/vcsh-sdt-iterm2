@@ -1,0 +1,5 @@
+*
+!/.gitignore.d
+!/.gitignore.d/vcsh-sdt-iterm2
+!/.iterm2
+!/.iterm2/com.googlecode.iterm2.plist
